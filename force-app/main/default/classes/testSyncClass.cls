@@ -1,5 +1,5 @@
 public with sharing class testSyncClass {
     public testSyncClass() {
-        system.debug('test suync');
+        system.debug('test suync from git edit');
     }
 }
